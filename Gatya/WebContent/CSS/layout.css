@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+body{
+	font-family:"メイリオ";
+	padding:12px;
+}
+
+div{
+	width:500px;
+	height:300px;
+	border:solid 8px #87ceeb;
+	border-radius:12px;
+	margin:auto;
+	margin-top:120px;
+	padding:5px;
+}
