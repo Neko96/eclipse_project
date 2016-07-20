@@ -2,10 +2,6 @@
 <!DOCTYPE html>
 <html lang="ja">
 	
-	<!-- 
-		JavaScriptでもいけるやんw 
-	-->
-	
 	<head>
 		<meta charset="UTF-8">
 		<title>ガチャ</title>
