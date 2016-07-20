@@ -1,6 +1,7 @@
 # eclipseでの開発履歴
 
 ## Gatya
-ガチャガチャのツール（本当はGacha?）
+ガチャガチャのJavaプロジェクト（本当はGacha?）
 
-## 
+## JV34_Kadai03_OOG
+レースを表わすJavaプロジェクト
