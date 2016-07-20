@@ -4,9 +4,6 @@ import java.util.Random;
 
 public class Cars extends Counter{
 	
-	//static String[] car=new String[10];
-	//int counter=0;
-	//float ram=(float)Math.random();
 	static String e="";
 	
 	public String ElectricCar(){
@@ -38,8 +35,6 @@ public class Cars extends Counter{
 	static String b="";
 	
 	public String Bus(){
-		
-		//boolean stopflg=false;	
 		
 		if(counter%3==0)
 		{
